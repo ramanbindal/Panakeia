@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "812421594299",
+    "firebase_url": "https://panakeia-2a3eb.firebaseio.com",
+    "project_id": "panakeia-2a3eb",
+    "storage_bucket": "panakeia-2a3eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812421594299:android:696017f663f0feda",
+        "android_client_info": {
+          "package_name": "com.example.ramanbindal.panakeia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812421594299-94u05m6ltsn6vvgiu1ifkju08bau36av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqQLrJT0RzcU0A1bYEVcCDwLIbPkhCTUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

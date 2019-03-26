@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.ramanbindal.panakeia.mainfragment"
+    >
+
+    <TextView
+        android:text="Click on Navigation Drawer for further Options!! "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/common_google_signin_btn_text_light_pressed"
+        android:textSize="20dp"
+        android:layout_marginTop="75dp"
+        android:layout_marginLeft="15dp"
+        android:id="@+id/textView2" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:srcCompat="@drawable/welcome"
+        android:id="@+id/imageView7" />
+
+</LinearLayout>
+
